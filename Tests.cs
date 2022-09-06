@@ -1,7 +1,7 @@
 using IndianStateCensusAnalyser;
 using IndianStateCensusAnalyser.Constructor_for_different_CSV;
 
-namespace IndianStateCensusAnalyserTest
+namespace IndianStatesCensusAnalyserTest
 {
     [TestClass]
     public class Tests
